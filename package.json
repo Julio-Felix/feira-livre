@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/mbacefor/SIUNI7Site/issues"
   },
-  "homepage": "https://github.com/mbacefor/SIUNI7Site"
+  "homepage": "https://github.com/mbacefor/SIUNI7Site",
+  "engines": {
+    "node": "14.x"
+  }
 }
